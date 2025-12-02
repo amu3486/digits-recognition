@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: mnist-api
-        image: codewithcharan/mnist_api:v1
+        image: amitdua3486/mnist_api:v1
         ports:
           - containerPort: 8000

@@ -4,7 +4,7 @@ This project focuses on recognizing handwritten digits using a deep learning mod
 🐳 **Docker Image:** `docker pull amitdua3486/mnist_api:v1`
 
 ## **Demo Video**
-
+https://github.com/user-attachments/assets/44a301bc-5f92-470b-a317-738ba5cce7ab
 ## Cloning the Repository
 
 To clone the repository, use the following command:
